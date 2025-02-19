@@ -1,4 +1,3 @@
-#Student ID: 011057996, Michael Nadeau
 
 import csv
 from datetime import time, timedelta, datetime
